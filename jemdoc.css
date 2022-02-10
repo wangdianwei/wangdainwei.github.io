@@ -30,7 +30,7 @@
 }
 
 .menu a:visited {
-	color: rgb(140,140,240);
+	color: rgb(140,140,140);
 	/*color: #9e9e9e;*/
 }
 
@@ -193,7 +193,7 @@ strong {
 
 h1, h2, h3 {
 	/* color: #527bbd; */
-	color: rgb(178 34 34);	
+	color: rgb(34 34 178);	
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
