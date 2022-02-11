@@ -43,7 +43,7 @@
 /* container */
 
 .container {
-	width: 980px;
+	width: 1024px;
 	min-height: 1000px;
 	max-height: 999999px; /* prevents font boosting */
 	margin: 56px auto 20px; /* top right bottom left */
@@ -453,7 +453,7 @@ table.imgtable, table.imgtable td {
 
 /* Publication */
 p.pub_title {
-	font-size: 16px;
+	font-size: 15px;
 	font-weight: bold;
 	margin-bottom: 4px;
 }
