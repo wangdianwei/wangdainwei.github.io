@@ -152,7 +152,7 @@ a:hover {
 }
 
 div.menu-category {
-	border-bottom: 1px solid gray;
+	border-bottom: 1px solid #00F;
 	margin-top: 0.8em;
 	padding-top: 0.2em;
 	padding-bottom: 0.1em;
@@ -160,8 +160,8 @@ div.menu-category {
 }
 
 div.menu-item {
-	padding-left: 10px;
-	text-indent: -10px;
+	padding-left: 15px;
+	text-indent: -15px;
 }
 
 div#toptitle {
