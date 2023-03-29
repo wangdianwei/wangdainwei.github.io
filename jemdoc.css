@@ -7,12 +7,12 @@
 	/* background-color: #224b8d;*/
     left: 0;
     top: 0;
-    width: 100%;
+    width: 120%;
 	padding: 12px 0px;
 	text-align: center;
 	position: fixed;
 	z-index: 100;
-	width: 100%
+	width: 120%
 }
 
 .menu a {
